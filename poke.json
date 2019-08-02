@@ -1,6 +1,5 @@
 {
-  "glumanda": [
-    {
+  "glumanda": {
       "name": "Glumanda",
       "eng_name": "Charmander",
       "id": "4",
@@ -12,5 +11,4 @@
       "entwicklungen": "<b>Glumanda</b> -> Glutexo -> Glurak",
       "entKosten": "       25 Bonbons    100 Bonbons"
     }
-  ]
 }
