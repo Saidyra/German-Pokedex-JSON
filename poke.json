@@ -1,12 +1,1 @@
-{
-  "name": "Glumanda",
-  "eng_name": "Charmander",
-  "id": 4,
-  "gen": 1,
-  "typen": "Feuer",
-  "maxWP": 980,
-  "eiDist": "2 Kilometer",
-  "kumpelDist": "3 Kilometer",
-  "entwicklungen": "<b>Glumanda</b> -> Glutexo -> Glurak",
-  "entKosten": "       25 Bonbons    100 Bonbons"
-}
+{"name": "Glumanda", "eng_name": "Charmander", "id": 4, "gen": 1, "typen": "Feuer", "maxWP": 980, "eiDist": "2 Kilometer", "kumpelDist": "3 Kilometer", "entwicklungen": "<b>Glumanda</b> -> Glutexo -> Glurak", "entKosten": "       25 Bonbons    100 Bonbons"}
