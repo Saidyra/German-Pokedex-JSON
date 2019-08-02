@@ -1,4 +1,4 @@
-Glumanda{
+{"Glumanda":[
 "name": "Glumanda",
 "eng_name": "Charmander",
 "id": "4",
@@ -9,4 +9,4 @@ Glumanda{
 "kumpelDist": "3 Kilometer",
 "entwicklungen": "<b>Glumanda</b> -> Glutexo -> Glurak",
 "entKosten": "       25 Bonbons    100 Bonbons"
-}
+]}
